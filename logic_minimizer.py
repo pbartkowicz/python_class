@@ -368,3 +368,6 @@ if __name__ == '__main__':
             print(to_string(result, arguments))
         else:
             print(result)
+
+    else:
+        print("Wrong expression")
