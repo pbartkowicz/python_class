@@ -30,3 +30,4 @@ if __name__ == '__main__':
         print("Invalid arguments")
         print("In order to display: main.py [file.json]")
         print("In order to save: main.py [file.json] [-o | --output] [output.png]")
+
