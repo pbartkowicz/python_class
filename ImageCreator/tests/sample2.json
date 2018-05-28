@@ -1,0 +1,14 @@
+{
+    "Figures": [
+        {"type": "point", "x": 0, "y": 0},
+        {"type": "point", "x": 1, "y": 0},
+        {"type": "point", "x": 0, "y": 1},
+        {"type": "point", "x": 1, "y": 1},
+        {"type": "polygon", "points": [[399,399], [300,14], [5,14]], "color": "blue"},
+        {"type": "rectangle", "x": 100, "y": 50, "width": 200, "height": 50},
+        {"type": "square", "x": 100, "y": 100, "size": 80, "color": "(255, 255, 255)"},
+        {"type": "square", "x": 200, "y": 200, "radius": 80}
+    ],
+    "Screen": {"width": 400, "height": 400, "bg_color": "(255, 0, 0)", "fg_color": "black"},
+    "Palette": {"red": "#ff0000", "blue": "(51, 51, 255)", "black": "#000000"}
+}
